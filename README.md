@@ -26,7 +26,6 @@ https://www.linkedin.com/in/chathurika-wijesooriya/
 chathurika.18@itfac.mrt.ac.lk
 
 <br>
-![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
 
 ![Github status](https://github-readme-stats.vercel.app/api?username=Chathu12345&count_private=true&show_icons=true&theme=radical)
 
