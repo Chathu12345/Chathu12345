@@ -5,6 +5,10 @@ I'm Chathurika Wijesooriya from Sri Lanka , and I'm a hardworking and tech enthu
 
 <br>
 
+ <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+ 
+ <br>
+
 <h3> Languages & Frameworks </h3>
 
 <br>
