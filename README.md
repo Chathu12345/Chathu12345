@@ -4,7 +4,7 @@
 I'm Chathurika Wijesooriya from Sri Lanka , and I'm a hardworking and tech enthusiastic undergraduate of Faculty of Information Technology , University of Moratuwa. I really enjoy learning langauges and frameworks like C#, Java, NET, .NET Core, HTML, JavaScript, CSS, Bootstrap. I enjoy web development in general. 
 
 <br>
-<h2>
+<h2 align="center">
  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </h2>
  
