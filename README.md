@@ -52,7 +52,7 @@ chathurika.18@itfac.mrt.ac.lk
 
 ![Github status](https://github-readme-stats.vercel.app/api?username=Chathu12345&count_private=true&show_icons=true&theme=radical)
 
-![Language used](https://github-readme-stats.vercel.app/api/top-langs/?username=Chathu12345&show_icons=true&theme=radical)
+![Language used](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Chathu12345/Chathu12345&show_icons=true&theme=radical)
 
 [![Chathu12345](https://github-readme-stats.vercel.app/api/pin/?username=Chathu12345&repo=Chathu12345&show_owner=true&theme=radical)](https://github.com/Chathu12345/Chathu12345)
 
