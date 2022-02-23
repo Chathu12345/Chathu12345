@@ -5,7 +5,7 @@ I'm Chathurika Wijesooriya from Sri Lanka , and I'm a hardworking and tech enthu
 
 <br>
 <h2 align="center">
- <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+ <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fmindninjax%2Fhow-to-become-an-effective-programmer-5a00&psig=AOvVaw01J04cJZOkAbwAnTLBoGru&ust=1645723360199000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPCk2ryrlvYCFQAAAAAdAAAAABAK" alt="Coder GIF" width="500">
 </h2>
  
  <br>
