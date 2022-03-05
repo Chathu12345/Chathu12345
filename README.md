@@ -48,6 +48,10 @@ https://www.linkedin.com/in/chathurika-wijesooriya/
 
 chathurika.18@itfac.mrt.ac.lk
 
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+
+https://chathurikawijesooriya97.medium.com/
+
 <br>
 
 ![Github status](https://github-readme-stats.vercel.app/api?username=Chathu12345&count_private=true&show_icons=true&theme=radical)
