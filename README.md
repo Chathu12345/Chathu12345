@@ -42,13 +42,9 @@ I'm Chathurika Wijesooriya from Sri Lanka , and I'm a hardworking and tech enthu
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chathurika-wijesooriya/)
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](chathurika.18@itfac.mrt.ac.lk)
 
-chathurika.18@itfac.mrt.ac.lk
-
-![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
-
-https://chathurikawijesooriya97.medium.com/
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://chathurikawijesooriya97.medium.com/)
 
 <br>
 
