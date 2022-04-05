@@ -10,6 +10,9 @@ I'm Chathurika Wijesooriya from Sri Lanka , and I'm a hardworking and tech enthu
  
  <br>
  
+ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Chathu12345" alt="Chathu12345" /></a> </p>
+  <br>
+ 
  ## Technology Stack 💻
 
 <p align='center'>
