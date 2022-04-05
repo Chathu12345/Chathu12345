@@ -2,7 +2,7 @@
 
 
 I'm Chathurika Wijesooriya from Sri Lanka , and I'm a hardworking and tech enthusiastic undergraduate of Faculty of Information Technology , University of Moratuwa. I really enjoy learning langauges and frameworks like Java, C#, NET, .NET Core, XML, HTML, JavaScript, CSS, Bootstrap. I enjoy Android development and Web development in general. 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Chathu12345&label=Profile%20views&color=0e75b6&style=flat" alt="Chathu12345" /> </p>
 <br>
 
 <h2 align="center">
@@ -11,7 +11,7 @@ I'm Chathurika Wijesooriya from Sri Lanka , and I'm a hardworking and tech enthu
  
  <br>
  
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Chathu12345&label=Profile%20views&color=0e75b6&style=flat" alt="Chathu12345" /> </p>
+ 
  
  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Chathu12345" alt="Chathu12345" /></a> </p>
   <br>
