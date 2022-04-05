@@ -4,13 +4,14 @@
 I'm Chathurika Wijesooriya from Sri Lanka , and I'm a hardworking and tech enthusiastic undergraduate of Faculty of Information Technology , University of Moratuwa. I really enjoy learning langauges and frameworks like Java, C#, NET, .NET Core, XML, HTML, JavaScript, CSS, Bootstrap. I enjoy Android development and Web development in general. 
 
 <br>
+
 <h2 align="center">
  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" alt="Coder GIF" width="500">
 </h2>
  
  <br>
  
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Chathu12345&label=Profile%20views&color=0e75b6&style=flat" alt="Chathu12345" /> </p>
+ <p align="left"> <img src="https://github.com/ghpvc/?username=Chathu12345&label=Profile%20views&color=0e75b6&style=flat" alt="Chathu12345" /> </p>
  
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Chathu12345" alt="Chathu12345" /></a> </p>
   <br>
