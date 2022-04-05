@@ -10,7 +10,7 @@ I'm Chathurika Wijesooriya from Sri Lanka , and I'm a hardworking and tech enthu
  
 <br>
 
-## Views & Badges
+## Views & Badges 🏆
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Chathu12345&label=Profile%20views&color=0e75b6&style=flat" alt="Chathu12345" /> </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Chathu12345" alt="Chathu12345" /></a> </p>
 <br>
