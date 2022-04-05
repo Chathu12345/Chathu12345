@@ -5,10 +5,16 @@ I'm Chathurika Wijesooriya from Sri Lanka , and I'm a hardworking and tech enthu
 <br>
 
 <h2 align="center">
- <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" alt="Coder GIF" width="500">
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" alt="Coder GIF" width="500">
 </h2>
  
- <br>
+<br>
+
+<h3> Views & Badges </h3>
+<br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Chathu12345&label=Profile%20views&color=0e75b6&style=flat" alt="Chathu12345" /> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Chathu12345" alt="Chathu12345" /></a> </p>
+<br>
  
  ## Technology Stack 💻
 
@@ -45,9 +51,7 @@ I'm Chathurika Wijesooriya from Sri Lanka , and I'm a hardworking and tech enthu
 <!--[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](chathurika.18@itfac.mrt.ac.lk)-->
 
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Chathu12345&label=Profile%20views&color=0e75b6&style=flat" alt="Chathu12345" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Chathu12345" alt="Chathu12345" /></a> </p>
-  <br>
+
 
 ![Github status](https://github-readme-stats.vercel.app/api?username=Chathu12345&count_private=true&show_icons=true&theme=radical)
 
