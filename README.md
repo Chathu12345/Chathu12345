@@ -49,9 +49,7 @@ I'm Chathurika Wijesooriya from Sri Lanka , and I'm a hardworking and tech enthu
 ![Github status](https://github-readme-stats.vercel.app/api?username=Chathu12345&count_private=true&show_icons=true&theme=radical)
 
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chathu12345&layout=compact&langs_count=7&theme=radical"/>
- 
 
-[![Chathu12345](https://github-readme-stats.vercel.app/api/pin/?username=Chathu12345&repo=Chathu12345&show_owner=true&theme=radical)](https://github.com/Chathu12345/Chathu12345)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Chathu12345&label=Profile%20views&color=0e75b6&style=flat" alt="Chathu12345" /> </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Chathu12345" alt="Chathu12345" /></a> </p>
