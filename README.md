@@ -1,7 +1,7 @@
 ### Hello <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 
-I'm Chathurika Wijesooriya from Sri Lanka , and I'm a hardworking and tech enthusiastic undergraduate of Faculty of Information Technology , University of Moratuwa. I really enjoy learning langauges and frameworks like Java, C#, NET, .NET Core, XML, HTML, JavaScript, CSS, Bootstrap. I enjoy Android development and Web development in general. 
+I'm Chathurika Wijesooriya from Sri Lanka , and I'm a hardworking and tech enthusiastic undergraduate of Faculty of Information Technology , University of Moratuwa. I really enjoy learning langauges and frameworks like Android, Flutter, Java, C#, Python, .NET, ASP.Net MVC, XML, HTML, JavaScript, CSS, Bootstrap. I enjoy Android development and Web development in general. 
 <br>
 
 <h2 align="center">
