@@ -27,7 +27,7 @@ I'm Chathurika Wijesooriya from Sri Lanka , and I'm a hardworking and tech enthu
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootsrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<a href="https://api.daily.dev/devcards/485df0be9b0d46b98c861fa5c78783fa.png?r=xu6"><img src="https://api.daily.dev/devcards/b2a0b896ef724e68a2364c727e8e9e6e.png?r=20z" width="400" alt="Chathurika Wijesooriya's Dev Card"/></a>
+<a href="https://api.daily.dev/devcards/485df0be9b0d46b98c861fa5c78783fa.png?r=xu6"><img src="https://api.daily.dev/devcards/485df0be9b0d46b98c861fa5c78783fa.png?r=xu6" width="400" alt="Chathurika Wijesooriya's Dev Card"/></a>
 
 <h3> Developing Tools </h3>
 
