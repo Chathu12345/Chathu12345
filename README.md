@@ -5,7 +5,7 @@ I'm Chathurika Wijesooriya from Sri Lanka , and I'm a hardworking and tech enthu
 <br>
 
 <h2 align="center">
-<img src="[https://user-images.githubusercontent.com/55725137/181302688-076a9c29-d631-4dfc-aa15-be25a65af2a0.gif](https://api.daily.dev/devcards/485df0be9b0d46b98c861fa5c78783fa.png?r=xu6)" alt="Coder GIF" width="500">
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" alt="Coder GIF" width="500">
 </h2>
  
 <br>
