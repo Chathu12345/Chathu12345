@@ -42,7 +42,7 @@ I'm Chathurika Wijesooriya from Sri Lanka , and I'm a hardworking and tech enthu
 
 <br>
 
-<h3> Dev Card </h3>
+<h3 align="center"> Dev Card </h3>
 
 <br>
 
