@@ -46,7 +46,7 @@ I'm Chathurika Wijesooriya from Sri Lanka , and I'm a hardworking and tech enthu
 
 <br>
 <h2  align="center">
-<a href="https://api.daily.dev/devcards/485df0be9b0d46b98c861fa5c78783fa.png?r=xu6"><img src="https://api.daily.dev/devcards/485df0be9b0d46b98c861fa5c78783fa.png?r=xu6" width="400" alt="Chathurika Wijesooriya's Dev Card"/></a>
+<a href="https://api.daily.dev/devcards/485df0be9b0d46b98c861fa5c78783fa.png?r=xu6"><img src="https://user-images.githubusercontent.com/55725137/198518306-54eef873-4687-42e3-b9e9-b52601cc0fb8.jpg" width="400" alt="Chathurika Wijesooriya's Dev Card"/></a>
 </h2>
 
 <br>
